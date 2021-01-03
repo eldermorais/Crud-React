@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Elder Morais dos Santos",
+      "email": "eldermorais@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Larissa nascimento de Araújo",
+      "email": "larissanascimento@hotmail.com"
+    },
+    {
+      "name": "Arthur de Araújo Morais do Santos",
+      "email": "arthuramorais@hotmail.com",
+      "id": 3
+    }
+  ]
+}
